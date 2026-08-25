@@ -1,0 +1,19 @@
+name: Generate Metrics Dashboard
+
+on:
+  schedule:
+    - cron: "0 0 * * *"  # chạy mỗi ngày lúc 00:00 UTC
+  workflow_dispatch: {}   # cho phép chạy thủ công từ tab Actions
+
+jobs:
+  metrics:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: lowlighter/metrics@latest
+        with:
+          filename: metrics.svg
+          token: ${{ secrets.METRICS_TOKEN }}
+          base: header, activity, community, repositories, metadata
+          config_timezone: Asia/Ho_Chi_Minh
