@@ -14,6 +14,6 @@ jobs:
       - uses: lowlighter/metrics@latest
         with:
           filename: metrics.svg
-          token: ${{ secrets.METRICS_TOKEN }}
+          token: ${{ secrets.METRICS_TOKEN || secrets.GITHUB_TOKEN }}
           base: header, activity, community, repositories, metadata
           config_timezone: Asia/Ho_Chi_Minh
