@@ -31,5 +31,23 @@
   <img alt="bomberman contribution graph" src="https://raw.githubusercontent.com/ducmanh-jr/ducmanh-jr/output/bomberman-contribution-graph.svg" width="600">
 </picture>
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ducmanh-jr/ducmanh-jr/output/breakout-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ducmanh-jr/ducmanh-jr/output/breakout-contribution-graph.svg">
+  <img alt="breakout contribution graph" src="https://raw.githubusercontent.com/ducmanh-jr/ducmanh-jr/output/breakout-contribution-graph.svg" width="600">
+</picture>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ducmanh-jr/ducmanh-jr/output/galaga-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ducmanh-jr/ducmanh-jr/output/galaga-contribution-graph.svg">
+  <img alt="galaga contribution graph" src="https://raw.githubusercontent.com/ducmanh-jr/ducmanh-jr/output/galaga-contribution-graph.svg" width="600">
+</picture>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ducmanh-jr/ducmanh-jr/output/minesweeper-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ducmanh-jr/ducmanh-jr/output/minesweeper-contribution-graph.svg">
+  <img alt="minesweeper contribution graph" src="https://raw.githubusercontent.com/ducmanh-jr/ducmanh-jr/output/minesweeper-contribution-graph.svg" width="600">
+</picture>
+
   </div>
 </div>
