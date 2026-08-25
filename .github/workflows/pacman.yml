@@ -15,14 +15,14 @@ jobs:
     permissions:
       contents: write
     runs-on: ubuntu-latest
-    timeout-minutes: 10
+    timeout-minutes: 5
 
     steps:
-      - name: generate arcade contribution graph SVGs
+      - name: generate pacman contribution graph SVG
         uses: abozanona/pacman-contribution-graph@main
         with:
           github_user_name: ${{ github.repository_owner }}
-          games: 'pacman,bomberman,breakout,galaga,minesweeper'
+          games: 'pacman'
           
       - name: push SVGs to the output branch
         uses: crazy-max/ghaction-github-pages@v3.1.0

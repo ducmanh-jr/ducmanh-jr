@@ -25,29 +25,9 @@
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/ducmanh-jr/ducmanh-jr/output/pacman-contribution-graph.svg" width="600">
 </picture>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ducmanh-jr/ducmanh-jr/output/bomberman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ducmanh-jr/ducmanh-jr/output/bomberman-contribution-graph.svg">
-  <img alt="bomberman contribution graph" src="https://raw.githubusercontent.com/ducmanh-jr/ducmanh-jr/output/bomberman-contribution-graph.svg" width="600">
-</picture>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ducmanh-jr/ducmanh-jr/output/breakout-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ducmanh-jr/ducmanh-jr/output/breakout-contribution-graph.svg">
-  <img alt="breakout contribution graph" src="https://raw.githubusercontent.com/ducmanh-jr/ducmanh-jr/output/breakout-contribution-graph.svg" width="600">
-</picture>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ducmanh-jr/ducmanh-jr/output/galaga-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ducmanh-jr/ducmanh-jr/output/galaga-contribution-graph.svg">
-  <img alt="galaga contribution graph" src="https://raw.githubusercontent.com/ducmanh-jr/ducmanh-jr/output/galaga-contribution-graph.svg" width="600">
-</picture>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ducmanh-jr/ducmanh-jr/output/minesweeper-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ducmanh-jr/ducmanh-jr/output/minesweeper-contribution-graph.svg">
-  <img alt="minesweeper contribution graph" src="https://raw.githubusercontent.com/ducmanh-jr/ducmanh-jr/output/minesweeper-contribution-graph.svg" width="600">
-</picture>
-
   </div>
 </div>
+
+<!-- Colorful Gradient Line Divider -->
+<br>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
