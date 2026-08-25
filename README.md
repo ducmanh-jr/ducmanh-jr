@@ -28,6 +28,6 @@
   </div>
 </div>
 
-<!-- Colorful Gradient Line Divider -->
+<!-- Static Colorful Gradient Line Divider -->
 <br>
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2&width=100%">
