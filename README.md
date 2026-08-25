@@ -9,15 +9,19 @@
 
 <div>
   <a href="https://github.com/ducmanh-jr">
-      <img src="https://raw.githubusercontent.com/dev-akshat/archive/main/images/gifs/anime/luffy.gif" alt="Luffy Anime" align="right" width="210">
+      <img src="https://raw.githubusercontent.com/dev-akshat/archive/main/images/gifs/anime/luffy.gif" alt="Luffy Anime" align="right" width="220">
   </a>
 
   <div align="left">
 
-- **Nguyen Duc Manh**
-- Trường Đại học Xây dựng Hà Nội (HUCE)
-- Intern
-- Backend & AI Engineer
+- 🙋‍♂️ **Name:** **Nguyen Duc Manh**
+- 🎂 **DOB:** 04/09/2005 *(From Hung Yen, Vietnam)*
+- 🎓 **Education:** Computer Science @ **Hanoi University of Civil Engineering (HUCE)**
+- 💼 **Role:** Intern **Backend & AI Engineer**
+- 📧 **Gmail:** `nguyenducmanh.ducmanhjr@gmail.com`
+- 🐙 **GitHub:** [ducmanh-jr](https://github.com/ducmanh-jr)
+
+<br>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ducmanh-jr/ducmanh-jr/output/pacman-contribution-graph-dark.svg">
