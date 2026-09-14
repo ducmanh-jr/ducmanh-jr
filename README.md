@@ -17,7 +17,7 @@
 - 🙋‍♂️ **Name:** **Nguyen Duc Manh**
 - 🎂 **DOB:** 04/09/2005 *(From Hung Yen, Vietnam)*
 - 🎓 **Education:** Computer Science @ **Hanoi University of Civil Engineering (HUCE)**
-- 💼 **Role:** Intern **Backend & AI Engineer**
+- 💼 **Role:** Intern **Data Engineer & AI Engineer**
 - 📧 **Gmail:** `nguyenducmanh.ducmanhjr@gmail.com`
 - 🐙 **GitHub:** [ducmanh-jr](https://github.com/ducmanh-jr)
 
