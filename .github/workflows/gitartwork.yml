@@ -3,8 +3,7 @@ name: Make gitartwork SVG
 on: 
   push:
     branches: [ main ]
-  schedule:
-    - cron: "0 */4 * * *"
+
   workflow_dispatch:  
 
 jobs:
