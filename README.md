@@ -9,7 +9,7 @@
 
 <div>
   <a href="https://github.com/ducmanh-jr">
-      <img src="https://raw.githubusercontent.com/dev-akshat/archive/main/images/gifs/anime/luffy.gif" alt="Luffy Anime" align="right" width="220">
+      <img src="gif/m3p.gif" alt="m3p" align="right" width="220">
   </a>
 
   <div align="left">
